@@ -1,0 +1,4 @@
+How to play :-
+-> First Select "play" than level . 
+->Use 'w' key on your keybord to move your helicopter upward and 's' to move downward .    if you don't press any key the helicopter will automatically go downward at a moderated speed. 
+->Use 'p' to pause the game and 'Esc' to exit game while playing.

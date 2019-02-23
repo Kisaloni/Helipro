@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536765701 source:g:\documents\c_c++\kishan0810cs171037\helipro\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1536762730 source:g:\documents\c_c++\kishan0810cs171037\helipro\resources.rc
+
