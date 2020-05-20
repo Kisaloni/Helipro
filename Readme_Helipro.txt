@@ -8,6 +8,6 @@ For that i have made it open source so you can get inspired from my codes or you
 
 "There is no need to learn many languages , just stick to one language and do work many project with that language."
 
-If still you have some question about this questions about this project fill free to ask me.
+If still you have some question about this questions about this project feel free to ask me.
 At last i wanna thanks to my parents for there constant support and 
-my mentors Prof. Dr.V.R.Raghveer(Principal IIST Indore),Mrs.Megha Birthare and Mr.Himanshu Ramchandani(CEO Hemans AI) for their valuable guidance.      
+my mentors Prof. Dr.V.R.Raghveer(Principal IIST Indore), Mrs.Megha Birthare, and Mr.Himanshu Ramchandani(CEO Hemans AI) for their valuable guidance.      
